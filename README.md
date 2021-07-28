@@ -5,5 +5,5 @@ I'm computer engineering student at Kırıkkale University. Also a researcher, I
 ### Contact
 
 You can reach me from the addresses below:
-E-mail: neclaruzgarr@gmail.com
+<--E-mail: neclaruzgarr@gmail.com-->
 Linkedin:
